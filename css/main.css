@@ -273,7 +273,7 @@ a:hover, a:focus {
    Main styles
    ========================================================================== */
 header {
-  background: <link rel="image" href="header-bg.jpg"> no-repeat center center;
+  background: url(https://cloud.githubusercontent.com/assets/23279256/20035712/3034223c-a415-11e6-97f8-2b9cd4651bdc.jpg) no-repeat center center;
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -361,7 +361,7 @@ header {
 
 
 #be-the-first {
-  background:  <link rel="image" href="be-the-first-bg.jpg"> #231f20 no-repeat center center fixed;
+  background:  url() #231f20 no-repeat center center fixed;
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
