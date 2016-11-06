@@ -14,7 +14,7 @@ h1 {
   font-size: 55px;
   line-height: 55px;
   letter-spacing: -1px;
-  color: #70cbce;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -22,7 +22,7 @@ h2 {
   font-size: 40px;
   line-height: 40px;
   etter-spacing: -0.5px;
-  color: #70cbce;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -73,11 +73,11 @@ a:hover, a:focus {
 
 ::selection {
 	background: #231f20; /* Safari */
-	color: #70cbce;
+	color: #231f20;
 }
 ::-moz-selection {
 	background: #231f20; /* Firefox */
-	color: #70cbce;
+	color: #231f20;
 }
 
 
@@ -198,7 +198,7 @@ a:hover, a:focus {
 }
 
 .white {
-  color:#70cbce ;
+  color:#231f20 ;
 }
 
 .black-bg {
