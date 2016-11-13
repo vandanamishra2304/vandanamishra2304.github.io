@@ -5,7 +5,7 @@ mark, rp, rt, ruby, summary, time {display:inline }
 .left {float:left}
 .right {float:right}
 .wrapper {width:100%;overflow:hidden}
-body {background:url(../images/bg.jpg) top center no-repeat #000;border:0;font:14px Arial, Helvetica, sans-serif;color:#000;line-height:20px}
+body {background:url(https://cloud.githubusercontent.com/assets/23279256/20238850/77a92fa4-a91a-11e6-864e-bb0c79b9a8d8.jpg) top center no-repeat #000;border:0;font:14px Arial, Helvetica, sans-serif;color:#000;line-height:20px}
 .ic, .ic a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
 /* Global Structure */
